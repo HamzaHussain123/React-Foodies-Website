@@ -38,7 +38,7 @@ const Footer = () => {
 
                     <div className="row Footer_row">
                         <p className="text-white text-center pt-5">
-                            @copright2024 | HamzaHussain
+                            @copright2024 | <span>Hamza Hussain</span>
                         </p>
                     </div>
                 </div>
